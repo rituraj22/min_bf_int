@@ -4,6 +4,6 @@ Yet another brainfuck interpreter. Nothing to see here
 
 ## Usage Instructions:
 
-Compile min.cpp
-./executable (bfprogram_file_name)
-Enjoy!
+* Compile min.cpp
+* ./executable (bfprogram_file_name)
+* Enjoy!
