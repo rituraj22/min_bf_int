@@ -22,4 +22,4 @@ int main(int argc, char** argv) {
             else stack[++sptr]=i-1;
         }
     }
-}
+}// End of code by @ rituraj
