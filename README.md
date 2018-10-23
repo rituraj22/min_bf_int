@@ -7,3 +7,4 @@ Yet another brainfuck interpreter. Nothing to see here
 * Compile min.cpp
 * ./executable (bfprogram_file_name)
 * Enjoy!
+# happy coding 
